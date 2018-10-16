@@ -1,1 +1,7 @@
 
+
+
+#Task 2_B
+print ("(2 / 3) = " + str(2 / 3)) 
+print ("\n")
+print ("(2 // 3) = " + str(2 // 3))

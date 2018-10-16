@@ -4,18 +4,15 @@ print ("Input number 1 ")
 myNumber1 = int(input ("Please input number 1:"))
 print ("number 1 = " + str(myNumber1))
 
-
 print ("\n")
 
 print ("Input number 2 ")
 myNumber2 = int(input ("Please input number 2:"))
 print ("number 1 = " + str(myNumber2))
 
-
 print ("\n")
 
 print ("number 1 + number 2 =")
-
 
 Result = (myNumber1 + myNumber2)
 print ("The Result is = " + str(Result))
@@ -49,3 +46,5 @@ print ("number1 = " + str(num1))
 print ("(2 / 3) = " + str(2 / 3)) 
 print ("\n")
 print ("(2 // 3) = " + str(2 // 3))
+
+
